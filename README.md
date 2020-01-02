@@ -14,7 +14,7 @@ description: دیکیریپشن صفحه اول
 
 | name | family |
 | :--- | :--- |
-| ffffffffffff | ffffffffffffffffffffffffffff |
+| fئشسها $$a = b$$  | ffffffffffffffffffffffffffff ![](.gitbook/assets/brand-color.png)  |
 | fddd | dddddddddddddddd |
 | dfs | d |
 | wefw | qewf |

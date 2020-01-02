@@ -8,7 +8,7 @@ description: دیکیریپشن صفحه اول
 
 **یبسبسیبسیبسیبسیبسیبسیب**
 
-![&#x645;&#x62D;&#x62E;&#x646;&#x62E;&#x647;&#x62A;&#x62E;](.gitbook/assets/photo_2019-10-02_16-17-21.jpg)
+![](.gitbook/assets/brand-color.png)
 
 **خهتخهتخهت**
 
